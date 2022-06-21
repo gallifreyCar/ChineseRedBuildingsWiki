@@ -1,0 +1,95 @@
+site_name: 红色建筑百科
+nav:
+  - 介绍:
+    - 红色建筑: index/index.md
+    - 历史渊源: index/history.md
+    - 网站说明: index/introduction.md
+  - 历史遗迹:
+    - 上海:
+      - A: historicSite/shanghai/A.md
+      - B: historicSite/shanghai/B.md
+    - 北京:
+      - A: historicSite/beijing/A.md
+      - B: historicSite/beijing/B.md
+  - 传奇故事:
+    - 上海:
+      - A: story/shanghai/A.md
+      - B: storyshanghai/B.md
+    - 北京:
+      - A: story/beijing/A.md
+      - B: story/beijing/B.md
+  - 红色书店:
+    - 上海:
+      - A: bookstore/shanghai/A.md
+      - B: bookstore/shanghai/B.md
+    - 北京:
+      - A: bookstore/beijing/A.md
+      - B: bookstore/beijing/B.md  
+  - 参与贡献:
+    - 为什么: contribution/why.md
+    - 怎么做: contribution/how.md  
+  - 关于我们:
+    - 我们是谁: about/about.md
+    - 联系我们: about/contact.md
+  
+
+theme: 
+  name: material
+  language: 'zh'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+   
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: deep purple
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 白日模式
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 黑夜模式
+
+
+  
+        
+
+extra:
+# social:
+#     - type: github
+#       link: https://github.com/cyent
+  search:
+    language: 'jp'
+    
+# markdown_extensions:
+#   - admonition
+#   - codehilite:
+#       guess_lang: false
+#       linenums: false
+#   - toc:
+#       permalink: true
+#   - footnotes
+#   - meta
+#   - def_list
+#   - pymdownx.arithmatex
+#   - pymdownx.betterem:
+#       smart_enable: all
+#   - pymdownx.caret
+#   - pymdownx.critic
+#   - pymdownx.details
+#   - pymdownx.emoji:
+#       emoji_generator: !!python/name:pymdownx.emoji.to_png
+#   - pymdownx.inlinehilite
+#   - pymdownx.magiclink
+#   - pymdownx.mark
+#   - pymdownx.smartsymbols
+#   - pymdownx.superfences
+#   - pymdownx.tasklist
+#   - pymdownx.tilde
