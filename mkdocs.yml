@@ -1,7 +1,7 @@
 site_name: 红色建筑百科
 nav:
   - 介绍:
-    - 红色建筑: index/index.md
+    - 红色建筑: index.md
     - 历史渊源: index/history.md
     - 网站说明: index/introduction.md
   - 历史遗迹:
