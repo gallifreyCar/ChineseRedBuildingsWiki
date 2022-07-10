@@ -18,13 +18,13 @@
 
 #### 联系方式
 
->:iphone:**微信**：上海香港三联书店有限公司
+>:fontawesome-brands-weixin:{ .weixin }  **微信**：上海香港三联书店有限公司
 >
->:iphone:**微博**：上海香港三联书店
+>:fontawesome-brands-weibo:{.weibo} **微博**：上海香港三联书店
 >
->:iphone:**抖音**：shjpc_1990
+>:fontawesome-brands-tiktok:{.tiktok} **抖音**：shjpc_1990
 >
->:iphone:**座机**：021-53064393
+>:telephone: **座机**：021-53064393
 
 #### 历史背景
 
@@ -69,7 +69,7 @@
 ??? info "参考文章链接"
 
     *1.[生活·读书·新知三联书店_百度百科 (baidu.com)](https://baike.baidu.com/item/生活·读书·新知三联书店/6871441?fromtitle=三联书店&fromid=1133079&fr=aladdin)*
-
+    
     *2.[上海香港三联书店有限公司_百度百科 (baidu.com)](https://baike.baidu.com/item/上海香港三联书店有限公司/10248652?fr=aladdin)*
-
+    
     *3.上海香港三联书店微信公众号*
