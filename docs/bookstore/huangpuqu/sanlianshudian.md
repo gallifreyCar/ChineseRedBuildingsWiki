@@ -2,7 +2,7 @@
 
 **上海香港三联书店**（简称三联书店） 是一家有悠久历史的著名出版社，由上海图书公司、上海三联书店出版社和三联书店（香港）有限公司联合投资组建，该公司主要经营三联书店版、上海书店版图书及其他国内外出版物。
 
-![图1](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdingyue.ws.126.net%2F7r3ouucfGsnVuuIvJ1BtyVdPGPNDJaZmp9UBVT31cdP3J1563268079981compressflag.jpg&refer=http%3A%2F%2Fdingyue.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659688159&t=29613594980e5344ae1774a5c8686051)
+![图1](sanlianshudian/slsd_1.jpeg)
 
 #### 营业时间
 
@@ -11,15 +11,20 @@
 #### 地址交通
 
 >:house:**地址**：上海市淮海中路624号
-:tram:**地铁**：13号线淮海中路地铁站/1号线黄陂南路站
-:bus:**公交**：淮海中路思南路
+>
+>:tram:**地铁**：13号线淮海中路地铁站/1号线黄陂南路站
+>
+>:bus:**公交**：淮海中路思南路
 
 #### 联系方式
 
->**微信**：上海香港三联书店有限公司
-**微博**：上海香港三联书店
-**抖音**：shjpc_1990
-**座机**：021-53064393
+>:iphone:**微信**：上海香港三联书店有限公司
+>
+>:iphone:**微博**：上海香港三联书店
+>
+>:iphone:**抖音**：shjpc_1990
+>
+>:iphone:**座机**：021-53064393
 
 #### 历史背景
 
@@ -41,7 +46,7 @@
 
 #### 经营现状
 
-![图](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimagecloud.thepaper.cn%2Fthepaper%2Fimage%2F176%2F686%2F249.jpg&refer=http%3A%2F%2Fimagecloud.thepaper.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659687544&t=a8b8c667d418653bfe5d7d325e9b57eb)
+![图](sanlianshudian/slsd_2.jpeg)
 
 上海香港三联书店，位于上海文化中心城区淮海中路624号，营业面积180平米，陈列书籍五千种，文创产品千余种。
 
@@ -49,31 +54,22 @@
 
 左侧区域根据三十年来周边读者群的需求，着重展示“北京三联”、“上海三联”、“香港三联”版图书以及港台版图书、社科文学和艺术类画册。靠窗处有沙发可供休息，以便读者们坐拥自己喜爱的图书，享受这一刻属于自己的小确幸。
 
-
-
-
 #### 趣闻轶事
-!!! note "店徽"
-    ![图](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Flib.kongfz.com%2Fdata%2Fbook_lib_img%2Fpress_pic%2F7e5%2F7e5570937604f10491b6f086d8c3beee.jpg&refer=http%3A%2F%2Flib.kongfz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659688455&t=1f003914b5c59eb7a5b482edcdc51de4)
 
-    三联店徽的原型来自生活书店店徽：1936年，美工郑川谷据苏联宣传海报（《打击懒惰工人》1931年 佚名 )移植过来，设计了店徽。 图案外围作齿轮形，中间是立足点一致的三个挥动锄镐的筑路工人，沿着三柄锄镐横穿有一条弧形光芒。40年代后期，还有一幅与店徽相仿的方形图案，作为出版标记印在部份出版物上。
+!!! abstract "店徽"
+    ![图](sanlianshudian/slsd_3.jpeg)
 
-##### 多个第一
+    三联店徽的原型来自生活书店店徽：1936年，美工郑川谷据苏联宣传海报（《打击懒惰工人》1931年 佚名 ）移植过来，设计了店徽。 图案外围作齿轮形，中间是立足点一致的三个挥动锄镐的筑路工人，沿着三柄锄镐横穿有一条弧形光芒。40年代后期，还有一幅与店徽相仿的方形图案，作为出版标记印在部份出版物上。
 
-![图](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Flib.kongfz.com%2Fdata%2Fbook_lib_img%2Fpress_pic%2F7e5%2F7e5570937604f10491b6f086d8c3beee.jpg&refer=http%3A%2F%2Flib.kongfz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659688455&t=1f003914b5c59eb7a5b482edcdc51de4)
+!!! abstract "多个第一"
 
-上海香港三联书店开业之初，书店以经销港版图书和首推的服务四项第一而被读者津津乐道，名噪一时。这是第一家开架售书的书店，是第一家站立服务的书店，是第一家使用条形码售书的书店，也是第一家开设夜市的书店。
-
+    上海香港三联书店开业之初，书店以经销港版图书和首推的服务四项第一而被读者津津乐道，名噪一时。这是第一家开架售书的书店，是第一家站立服务的书店，是第一家使用条形码售书的书店，也是第一家开设夜市的书店。
 
 
+??? info "参考文章链接"
 
+    *1.[生活·读书·新知三联书店_百度百科 (baidu.com)](https://baike.baidu.com/item/生活·读书·新知三联书店/6871441?fromtitle=三联书店&fromid=1133079&fr=aladdin)*
 
+    *2.[上海香港三联书店有限公司_百度百科 (baidu.com)](https://baike.baidu.com/item/上海香港三联书店有限公司/10248652?fr=aladdin)*
 
-
-**参考文章链接：**
-
-1、百度百科——生活·读书·新知三联书店 <https://baike.baidu.com/item/生活·读书·新知三联书店/6871441?fromtitle=三联书店&fromid=1133079&fr=aladdin>
-
-2、百度百科——上海香港三联书店 <https://baike.baidu.com/item/上海香港三联书店有限公司/10248652?fr=aladdin>
-
-3、上海香港三联书店微信公众号
+    *3.上海香港三联书店微信公众号*

@@ -10,8 +10,14 @@ nav:
       - B: bookstore/hongkouqu/B.md
     - 黄埔区:
       - 思南书局: bookstore/huangpuqu/sinanshuju.md
-      - 上海外文书局: bookstore/huangpuqu/shanghaiwaiwenshuju.md
-      - 香港三联书店: bookstore/huangpuqu/sanliandshudian.md
+      - 上海外文书店: bookstore/huangpuqu/waiwenshudian.md
+      - 上海香港三联书店: bookstore/huangpuqu/sanlianshudian.md
+      - 古籍书店: bookstore/huangpuqu/gujishudian.md
+      - 中共一大会址: bookstore/huangpuqu/yidahuizhi.md
+    - 徐汇区:
+      - 百代小楼: bookstore/xuhuiqu/baidaixiaolou.md
+    - 静安区:
+      - 千彩书坊: bookstore/jinganqu/qiancaishufang.md
   - 红色建筑:
     - 虹口区:
       - A: story/shanghai/A.md
