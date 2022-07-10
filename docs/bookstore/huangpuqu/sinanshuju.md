@@ -26,7 +26,14 @@
 
 按照“文化思南、城市空间”和“公共互动，开放包容”的运营理念，着力打打造上海充满人文精神的城市公共空间，不新探索更活跃、更国际、更上海的思南模式，推出了一批思南品牌活动如：思南读书会、思南纪实空间、思南赏艺会、思南城市空间艺术节、思南街角之声等，持续用创意点亮公共空间，用人文传递城市温度。
 
-![图](sinanshuju/clip_image002.jpg)
+
+
+<figure markdown>
+  ![图](sinanshuju/clip_image002.jpg)
+  <figcaption>思南公馆</figcaption>
+</figure>
+
+
 
 思南书局是思南公馆25号楼改建而成的一家新书店。它是上海不可移动的文物建筑，曾是冯玉祥将军旧居，大诗人柳亚子也曾两度寄居于此编书。该书店由上海市新闻出版局、上海市作家协会、中共上海市黄浦区委宣传部、上海世纪出版集团和上海永业集团等几方多年共同打造并不断融合提升。
 
@@ -89,12 +96,12 @@
 ??? info "参考文章链接"
 
     *1.[新开的思南书局，为何是不可复制的？文化课澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2090498)*
-
-	*2.[上海思南书局 | 梧桐树下的人文心脏_新书店 (sohu.com)](https://www.sohu.com/a/257487265_696292)*
-
-	*3.[思南书局举办古典星图珍品展，在书店仰望星空|宇宙新浪财经新浪网 (sina.com.cn)](https://finance.sina.com.cn/jjxw/2021-01-20/doc-ikftpnnx9592157.shtml)*
-
-	*4.[思南书局：有颜值，有好书，有展览，还有各种阅读活动文化课澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2092254)*
+    
+    *2.[上海思南书局 | 梧桐树下的人文心脏_新书店 (sohu.com)](https://www.sohu.com/a/257487265_696292)*
+    
+    *3.[思南书局举办古典星图珍品展，在书店仰望星空|宇宙新浪财经新浪网 (sina.com.cn)](https://finance.sina.com.cn/jjxw/2021-01-20/doc-ikftpnnx9592157.shtml)*
+    
+    *4.[思南书局：有颜值，有好书，有展览，还有各种阅读活动文化课澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2092254)*
 
 
 
