@@ -16,9 +16,9 @@
 
 #### 联系方式
 
->:iphone:**微信**：千彩书坊
+>:fontawesome-brands-weixin:{.weixin}**微信**：千彩书坊
 >
->:iphone:**座机**：021-62499006
+>:telephone:**座机**：021-62499006
 
 #### 历史背景
 
