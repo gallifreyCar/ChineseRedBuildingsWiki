@@ -1,30 +1,94 @@
 site_name: 上海红色文化阅读——建筑篇
 nav:
   - 指南:
-    - 红色建筑: index.md
-    - 历史渊源: index/history.md
+    - 红色文化阅读: index/history.md
     - 网站说明: index/introduction.md
   - 红色书店:
-    - 虹口区:
-      - A: bookstore/hongkouqu/A.md
-      - B: bookstore/hongkouqu/B.md
-    - 黄埔区:
-      - 思南书局: bookstore/huangpuqu/sinanshuju.md
-      - 上海外文书店: bookstore/huangpuqu/waiwenshudian.md
-      - 上海香港三联书店: bookstore/huangpuqu/sanlianshudian.md
-      - 古籍书店: bookstore/huangpuqu/gujishudian.md
-      - 中共一大会址: bookstore/huangpuqu/yidahuizhi.md
-    - 徐汇区:
-      - 百代小楼: bookstore/xuhuiqu/baidaixiaolou.md
-    - 静安区:
-      - 千彩书坊: bookstore/jinganqu/qiancaishufang.md
+    - \#:
+      - 1925书局: bookstore/#/1925.md
+#    - A:
+#    - B:
+#    - C:
+#    - D:
+#    - E:
+    - F:
+      - 复旦经世书局: bookstore/f/fdujingshishuju.md
+    - G:
+      - 公啡书社: bookstore/g/gongfei.md
+      - 古籍书店: bookstore/g/gujishudian.md
+#    - H:
+#    - I:
+    - J:
+      - 建投书局: bookstore/j/jiantou.md
+#    - K:
+#    - L:
+#    - M:
+#    - N:
+#    - O:
+#    - P:
+    - Q:
+      - 千彩书坊: bookstore/q/qiancaishufang.md
+#    - R:
+    - S:
+      - 思南书局: bookstore/s/sinanshuju.md
+    - T:
+      - 唐宁书店: bookstore/t/tangning.md
+#   - U:
+#    - V:
+    - W:
+      - 外文书店: bookstore/w/waiwenshudian.md
+    - X:
+      - 香港三联书店: bookstore/x/sanlianshudian.md
+#    - Z:
+
   - 红色建筑:
-    - 虹口区:
-      - A: story/shanghai/A.md
-      - B: storyshanghai/B.md
-    - 奉贤区:
-      - A: story/beijing/A.md
-      - B: story/beijing/B.md
+#    - 其它：
+#    - A:
+    - B:
+      - 百代小楼: historicSite/b/baidaixiaolou.md
+#    - C:
+#    - D:
+#    - E:
+#    - F:
+#    - G:
+    - H:
+      - 衡山·和集: historicSite/h/hengshan.md
+      - 河滨大楼: historicSite/h/hebindalou.md
+#    - I:
+    - J:
+      - 景林堂: historicSite/j/jinglintang.md
+    - K:
+      - 昆山花园路住宅: historicSite/k/kunshanhuayuan.md
+      - 孔公馆: historicSite/k/konggongguan.md
+    - L:
+      - 礼查饭店旧址: historicSite/l/lichafandian.md
+#    - M:
+    - N:
+      - 内山书店旧址: historicSite/n/neishan.md
+#    - O:
+#    - P:
+#    - Q:
+#    - R:
+    - S:
+      - 四行大楼: historicSite/s/sixing.md
+#    - T:
+#    - U:
+#    - V:
+    - W:
+      - 外白渡桥: historicSite/w/waibaiduqiao.md
+    - X:
+      - 西童女校旧址: historicSite/x/xitongnvxiao.md
+    - Y:
+      - 渔阳里: historicSite/y/yuyangli.md
+      - 邮政总局大楼: historicSite/y/youzhen.md
+      - 扆虹园: historicSite/y/yihongyuan.md
+    - Z:
+      - 中共一大会址: historicSite/z/yidahuizhi.md
+      - 中共塘沽路秘密电台旧址: historicSite/z/tanggulu.md
+      - 乍浦路桥: historicSite/z/zhapuluqiao.md
+      - 中行大楼: historicSite/z/zhonghang.md
+      - 中国共产党第四次全国代表大会遗址: historicSite/z/zhonggongsida.md
+      
   - 关于我们:
     - 我们是谁: about/about.md
     - 联系我们: about/contact.md
